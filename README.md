@@ -3,6 +3,15 @@
 Author: Smriti Pradhan<br>
 Credits - Jonas Schmedtmann
 
+```
+Hey All
+👋
+This repo has notes on JS course by Jonas . Feel free to contact - smritipradhan545@gmail.com if any doubts or any correction.
+Follow me on Github - https://github.com/smritipradhan
+Follow me on LinkedIn - https://www.linkedin.com/in/smriti-pradhan-926273185/
+
+```
+
 <details close>
 <summary>1. JAVASCRIPT FUNDAMENTALS PART 1</summary>
 <br>
