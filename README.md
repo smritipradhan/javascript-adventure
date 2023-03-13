@@ -6,7 +6,8 @@ Credits - Jonas Schmedtmann
 ```
 Hey All
 👋
-This repo has notes on JS course by Jonas . Feel free to contact - smritipradhan545@gmail.com if any doubts or any correction.
+This repo has notes on JS course by Jonas . Feel free to contact - smritipradhan545@gmail.com
+if any doubts or any correction.
 Follow me on Github - https://github.com/smritipradhan
 Follow me on LinkedIn - https://www.linkedin.com/in/smriti-pradhan-926273185/
 
@@ -17,7 +18,7 @@ Follow me on LinkedIn - https://www.linkedin.com/in/smriti-pradhan-926273185/
 <br>
 1.
 </details>
-<details close>
+<details close> 
 <summary>2. JAVASCRIPT FUNDAMENTALS PART 2</summary>
 <br>
 1.
