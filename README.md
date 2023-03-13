@@ -55,11 +55,6 @@ Credits - Jonas Schmedtmann
 1.
 </details>
 <details close>
-<summary>Mapty App:OOP,Geolocation,External Libraries and More !</summary>
-<br>
-1.
-</details>
-<details close>
 <summary>Asynchronous JavaScript:Promises , Async Await AJAX</summary>
 <br>
 1.
